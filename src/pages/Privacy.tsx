@@ -55,7 +55,7 @@ export function Privacy() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">5. Contact Us</h2>
           <p className="text-gray-600">
-            If you have any questions about this Privacy Policy, please contact us at privacy@aisolutionshub.com
+            If you have any questions about this Privacy Policy, please contact us at aisolutionbymz@gmail.com
           </p>
         </section>
       </div>
