@@ -75,7 +75,7 @@ export function Contact() {
               <Mail className="h-6 w-6 text-blue-600 mr-4" />
               <div>
                 <h3 className="font-medium">Email</h3>
-                <p className="text-gray-600">contact@aisolutionshub.com</p>
+                <p className="text-gray-600">aisolutionbymz.com</p>
               </div>
             </div>
 
@@ -83,7 +83,7 @@ export function Contact() {
               <Phone className="h-6 w-6 text-blue-600 mr-4" />
               <div>
                 <h3 className="font-medium">Phone</h3>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">0334 3812693</p>
               </div>
             </div>
 
@@ -92,9 +92,9 @@ export function Contact() {
               <div>
                 <h3 className="font-medium">Address</h3>
                 <p className="text-gray-600">
-                  123 AI Innovation Street<br />
-                  Tech District<br />
-                  San Francisco, CA 94105
+                  Karachi, Pakistan<br />
+                   />
+                  
                 </p>
               </div>
             </div>
