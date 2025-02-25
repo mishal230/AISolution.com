@@ -92,9 +92,7 @@ export function Contact() {
               <div>
                 <h3 className="font-medium">Address</h3>
                 <p className="text-gray-600">
-                  Karachi, Pakistan<br />
-                   />
-                  
+                  Karachi, Pakistan<br />                  
                 </p>
               </div>
             </div>
