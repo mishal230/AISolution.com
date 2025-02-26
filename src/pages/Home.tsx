@@ -14,7 +14,7 @@ export function Home() {
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             Transform your customer engagement with our intelligent chatbot solutions. From basic RAG to advanced AI-powered multi-channel integration.
           </p>
-          <Link to="/services" className="inline-flex items-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 md:text-lg">
+          <Link to="/get-started" className="inline-flex items-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 md:text-lg">
             Explore Services
             <ArrowRight className="ml-2 h-5 w-5" />
            
